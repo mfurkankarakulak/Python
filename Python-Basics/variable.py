@@ -21,3 +21,5 @@ gun = "carsamba"
 
 #double
 var3 = 10.0
+
+#5var gibi isimlendirme hata verir rakam başa gelemez
